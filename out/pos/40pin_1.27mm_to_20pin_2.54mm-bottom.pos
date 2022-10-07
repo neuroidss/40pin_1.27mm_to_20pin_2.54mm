@@ -1,0 +1,7 @@
+### Module positions - created on Fri 07 Oct 2022 10:32:19 AM MSK ###
+### Printed by Pcbnew version 6.0.4-6f826c9f35~116~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                   PosX       PosY       Rot  Side
+J2        Conn_02x10_Odd_Even  PinHeader_2x10_P2.54mm_Vertical_SMD     0.0000     0.0000  180.0000  bottom
+## End
