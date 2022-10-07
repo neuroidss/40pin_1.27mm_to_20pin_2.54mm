@@ -70,7 +70,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "out/pos")
+      (outputdirectory "out/gerbers")
     )
   )
 
@@ -497,6 +497,8 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_rect (start -5.08 13.335) (end 5.08 -13.335) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e6a96e12-b022-438a-a11c-a01f448bcef9))
 
   (segment (start -4.110103 0.724511) (end -4.534511 0.300103) (width 0.25) (layer "F.Cu") (net 1) (tstamp 01cbfc86-4fd1-4ee8-b8d1-bc2378c594eb))
   (segment (start -2.840103 0.724511) (end -4.110103 0.724511) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0902409c-a0f5-47d4-8391-d38bfa3c59b5))
